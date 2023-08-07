@@ -1,4 +1,4 @@
-# Write a program for sorting the numbers declared in the list using insertion sort.
+# Write a program for sorting the numbers declared in the list using insertion sort. 
 
 numb = [12,2.2,2.001,11,3,5,6,0]
 print("Unsorted list : "numb)
