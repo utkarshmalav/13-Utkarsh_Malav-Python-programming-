@@ -1,4 +1,4 @@
-# Converted an given c pgm into python of hollow diamond pattern.
+# Converted an given c pgm into python of hollow diamond pattern. 
 
 def print_hollow_diamond(n):
     for rows in range(1, n + 1):
